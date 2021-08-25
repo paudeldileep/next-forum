@@ -1,4 +1,4 @@
-//user home page after logging in
+//user home page after logging in   /home/[user]
 
 import MainFeed from "../Feed/MainFeed"
 import Navbar from "../Navbar/Navbar"
